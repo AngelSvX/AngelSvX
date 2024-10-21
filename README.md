@@ -67,10 +67,16 @@
   </kbd>
 </p>
 
-![My Github Statistics](https://github-readme-stats.vercel.app/api?username=AngelSvX&show_icons=true&theme=tokyonight)
+<h2>My Github Stats</h2>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelSvX&show_icons=true&theme=holi">
+<br/>
 <br/>
 
-![My stats](https://github-readme-streak-stats.herokuapp.com/?user=AngelSvX&theme=tokyonight)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelSvX&theme=holi-theme">
+<br/>
 <br/>
 
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelSvX&theme=tokyonight)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelSvX&theme=holi">
+
+---
