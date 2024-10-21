@@ -72,8 +72,10 @@
 <p align='center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelSvX&show_icons=true&theme=holi">
 <br/>
+<br/>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelSvX&theme=holi-theme">
+<br/>
 <br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelSvX&theme=holi">
