@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on Personal Projects
   
-- 🌱 I’m currently learning Java, SpringBoot, English.
+- 🌱 I’m currently learning NextJS, NestJS and English.
   
-- 👯 I’m looking to collaborate on any projects about Web and Mobile Development
+- 👯 I’m looking to collaborate on any projects about Web Development
   
 - 💬 Ask me about music, videogames, and Japan.
   
