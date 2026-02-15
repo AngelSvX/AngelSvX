@@ -142,13 +142,5 @@ VS Code | Android Studio | Figma
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelSvX&theme=dracula&hide_border=true&bg_color=0d1117"/>
 
-<br/>
-
-### 🎖️ GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=AngelSvX&theme=dracula&row=1&column=7&no-frame=true&no-bg=true"/>
-
-<br/>
-
 </div>
 
