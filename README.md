@@ -8,77 +8,147 @@
 
 <h2>About me</h2>
 
-- 🔭 I’m currently working on Personal Projects
-  
-- 🌱 I’m currently learning NextJS, NestJS and English.
-  
-- 👯 I’m looking to collaborate on any projects about Web Development
-  
-- 💬 Ask me about music, videogames, and Japan.
-  
-- ⚡ Fun fact: I wanted to be a Graphic Designer uu.
+<div align="center">
+
+### 🎯 Current Status
+
+</div>
+
+**🔭 Working On**
+```
+→ Personal Projects & Experimental Ideas
+```
+
+**🌱 Learning**
+```
+→ NextJS | NestJS | English
+```
+
+**👯 Looking To Collaborate**
+```
+→ Web Development Projects & Innovative Ideas
+```
+
+**💬 Talk To Me About**
+```
+→ Music | Videogames | Japan
+```
+
+**⚡ Fun Fact**
+```
+→ I wanted to be a Graphic Designer uu
+```
+
+---
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Active_Developer-9945FF?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Full_Stack-1E90FF?style=flat-square)
+![Mood](https://img.shields.io/badge/Mood-Creating_Cool_Stuff-FF1493?style=flat-square)
+
+</div>
 
 <h2>Technologies</h2>
 
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-plain.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/express/express-original-wordmark.svg" />
-  </kbd>
-   <kbd>
-    <kbd>Mobile</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/materialui/materialui-plain.svg"/>
-        <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitejs/vitejs-original.svg
-        "/>
-  </kbd>
-  <kbd>
-    <kbd>Database</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-plain-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-plain-wordmark.svg" />
-  </kbd>
-  <br>
-  <br>
-  <kbd>
-    <kbd>Tools</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/androidstudio/androidstudio-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg" />
-  </kbd>
-</p>
+<br>
+
+<div align="center">
+
+### 🖥️ Back-end
+```
+Node.js | TypeScript | Express
+```
+
+| | | |
+|:-:|:-:|:-:|
+| <img width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg" /> | <img width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-plain.svg" /> | <img width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/express/express-original-wordmark.svg" /> |
+
+---
+
+### 📱 Mobile
+```
+React Native
+```
+
+| |
+|:-:|
+| <img width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" /> |
+
+---
+
+### 🎨 Front-end
+```
+HTML | CSS | JavaScript | React | Tailwind | Material UI | Vite
+```
+
+| | | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> | <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> | <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" /> | <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" /> | <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/materialui/materialui-plain.svg"/> | <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitejs/vitejs-original.svg" /> |
+
+---
+
+### 🗄️ Database
+```
+MySQL | MongoDB
+```
+
+| | |
+|:-:|:-:|
+| <img width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-plain-wordmark.svg" /> | <img width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-plain-wordmark.svg" /> |
+
+---
+
+### ⚙️ Tools & Environment
+```
+VS Code | Android Studio | Figma
+```
+
+| | | |
+|:-:|:-:|:-:|
+| <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> | <img width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/androidstudio/androidstudio-original.svg" /> | <img width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg" /> |
+
+---
+
+</div>
 
 <h2>My Github Stats</h2>
 
-<p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelSvX&show_icons=true&theme=holi">
-<br/>
+<br>
+
+<div align="center">
+
+### 📊 Overall Stats
+
+<a href="https://github.com/AngelSvX">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AngelSvX&theme=midnight_purple"/>
+</a>
+
 <br/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelSvX&theme=holi-theme">
-<br/>
+### 🔥 Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelSvX&theme=dark&hide_border=true&background=0d1117&stroke=9945ff&ring=9945ff&fire=9945ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=9945ff&sideLabels=9945ff&dates=c9d1d9" alt="GitHub Streak"/>
+
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelSvX&theme=holi">
-</p>
+### 🏆 Achievements & Stats
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelSvX&theme=dracula"/>
+
+<br/>
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelSvX&theme=dracula&hide_border=true&bg_color=0d1117"/>
+
+<br/>
+
+### 🎖️ GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=AngelSvX&theme=dracula&row=1&column=7&no-frame=true&no-bg=true"/>
+
+<br/>
+
+</div>
+
