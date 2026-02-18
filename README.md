@@ -16,17 +16,17 @@
 
 **🔭 Working On**
 ```
-→ Personal Projects & Experimental Ideas
+→ Company & Personal Projects
 ```
 
 **🌱 Learning**
 ```
-→ NextJS | NestJS | English
+→ Vue3 - Nuxt | NestJS | English
 ```
 
 **👯 Looking To Collaborate**
 ```
-→ Web Development Projects & Innovative Ideas
+→ Web Development Projects with NestJS
 ```
 
 **💬 Talk To Me About**
