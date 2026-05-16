@@ -21,7 +21,7 @@
 
 **🌱 Learning**
 ```
-→ Vue3 - Nuxt | NestJS | English
+→ Vue3 | NestJS | English
 ```
 
 **👯 Looking To Collaborate**
