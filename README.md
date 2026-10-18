@@ -21,7 +21,7 @@
 
 **🌱 Learning**
 ```
-→ Vue3 | NestJS | English
+→ NextJS | Aws Services | English
 ```
 
 **👯 Looking To Collaborate**
